@@ -63,6 +63,6 @@ int main(){
 	cout << i << " moeda(s) de R$0,25\n";
 	cout << j << " moeda(s) de R$0,10\n";
 	cout << k << " moeda(s) de R$0,05\n";
-	cout << l << " moeda(s) de R$0,01\n";
+	cout << fixed << setprecision(0) <<  l << " moeda(s) de R$0,01\n";
 	return 0;
 }
