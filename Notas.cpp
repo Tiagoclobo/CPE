@@ -6,7 +6,7 @@ using namespace std;
 int main(){
 	// valores das notas
 	double valor,l;
-	int a,b,c,d,e,f,g,h,i,j,k,t;
+	int a,b,c,d,e,f,g,h,i,j,k;
 	
 	/*o numero de notas e so dividir o valor,
 	ir fazendo o valor menos o num de notas 

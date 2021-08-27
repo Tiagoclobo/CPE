@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 	//comandos do programa
-	cout <<"Sikas vai tomar no cu!!! " << endl;
+	cout <<"Tiago Garcia Lobo-211027320 " << endl;
 	return 0;
 }
 
